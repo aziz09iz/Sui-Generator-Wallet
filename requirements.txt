@@ -1,0 +1,5 @@
+bip-utils
+bech32
+mnemonic
+pandas
+openpyxl
